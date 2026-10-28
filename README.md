@@ -11,32 +11,52 @@ UniPartner solves this problem by providing a private, student-centric workspace
 ## Screenshots
 
 <div align="center">
-  <img src="assets/screenshots/setup_step1.png" width="220" alt="Setup Step 1 - Profile" />
-  <img src="Aassets/screenshots/setup_step2.png" width="220" alt="Setup Step 2 - Semester" />
-  <img src="assets/screenshots/setup_step3.png" width="220" alt="Setup Step 3 - Courses" />
-  <img src="assets/screenshots/setup_step4.png" width="220" alt="Setup Step 4 - Timetable" />
+  <img src="assets/screenshots/splash.png" width="220" alt="Splash Screen" />
+  <img src="assets/screenshots/login.png" width="220" alt="Login Screen" />
+  <img src="assets/screenshots/signup.png" width="220" alt="Signup Screen" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/screenshots/setup_step5.png" width="220" alt="Setup Step 5 - Attendance" />
-  <img src="assets/screenshots/setup_step6.png" width="220" alt="Setup Step 6 - Completion" />
+  <img src="assets/screenshots/setup_step1.png" width="220" alt="Setup Step 1 - Student Profile" />
+  <img src="assets/screenshots/setup_step2.png" width="220" alt="Setup Step 2 - Term Timeline" />
+  <img src="assets/screenshots/setup_step3.png" width="220" alt="Setup Step 3 - Central Courses" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/screenshots/setup_step4.png" width="220" alt="Setup Step 4 - Timetable Slots" />
+  <img src="assets/screenshots/setup_step5.png" width="220" alt="Setup Step 5 - Initial Attendance" />
+  <img src="assets/screenshots/setup_step6.png" width="220" alt="Setup Step 6 - Workspace Ready" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="assets/screenshots/dashboard.png" width="220" alt="Dashboard & Daily Briefing" />
-  <img src="assets/screenshots/profile_settings.png" width="220" alt="Settings & Profile Hub" />
+  <img src="assets/screenshots/timetable.png" width="220" alt="Weekly Timetable" />
+  <img src="assets/screenshots/attendance.png" width="220" alt="Attendance Tracker" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/screenshots/timetable.png" width="220" alt="Timetable Screen" />
-  <img src="assets/screenshots/attendance.png" width="220" alt="Attendance Screen" />
-  <img src="assets/screenshots/assignments.png" width="220" alt="Assignments Screen" />
+  <img src="assets/screenshots/assignments.png" width="220" alt="Assignments Manager" />
+  <img src="assets/screenshots/exams.png" width="220" alt="Exams Schedule" />
   <img src="assets/screenshots/gpa.png" width="220" alt="GPA / CGPA Calculator" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/screenshots/profile_settings.png" width="220" alt="Settings & Profile Hub" />
 </div>
 
 | Screen | Description |
 | --- | --- |
+| **Authentication & Splash** | Branded launch screen and secure local account login/registration screens. |
 | **First-Time Setup** | 6-step progressive wizard configuring profile, term dates, courses, timetable, and initial attendance. |
 | **Dashboard** | Real-time academic overview featuring the rule-based Daily Smart Briefing engine. |
 | **Timetable** | Weekly schedule organized by day chips with class room and time slot indicators. |
